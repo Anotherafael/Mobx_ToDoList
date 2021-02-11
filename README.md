@@ -1,4 +1,6 @@
-# mobx_to_do_list
+# Mobx_ToDoList
+
+Desenvolvido apenas para aprendizado. It was developed for learning only.
 
 A new Flutter project.
 
